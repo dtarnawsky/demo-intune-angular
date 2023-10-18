@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ionic-intune-demo</string>
+	<string>ionic-intune-cs</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -34,11 +34,11 @@
 	<key>IntuneMAMSettings</key>
 	<dict>
 		<key>ADALAuthority</key>
-		<string>https://login.microsoftonline.com/453daf0a-cd18-4085-bfd7-fb9431630f11</string>
+		<string>https://login.microsoftonline.com/5a1ca3b2-838a-432c-bc37-4236edfefedd</string>
 		<key>ADALClientId</key>
-		<string>f80e2e59-01b2-4f88-be80-4895a63eae7e</string>
+		<string>3a304217-e015-4512-a21c-c22727f109a2</string>
 		<key>ADALRedirectUri</key>
-		<string>msauth.io.ionic.intuneDemo2://auth</string>
+		<string>msauth.io.ionic.intune.cs://auth</string>
 		<key>AutoEnrollOnLaunch</key>
 		<true/>
 	</dict>

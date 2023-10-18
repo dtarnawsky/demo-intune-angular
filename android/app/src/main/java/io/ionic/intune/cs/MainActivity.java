@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.ionic.intune.cs;
 
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
