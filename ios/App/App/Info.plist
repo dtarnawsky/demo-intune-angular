@@ -65,6 +65,12 @@
 	</array>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Uses the camera</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Uses the photo library</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Uses the photo library</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
